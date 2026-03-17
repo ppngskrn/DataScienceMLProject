@@ -1,3 +1,2 @@
 # DataScienceMLProject
-Y E S
-67
+Y E S 67
