@@ -2,7 +2,7 @@ A) You can download historic PM2.5 data (and PM10, O3, NO2, CO, SO2) in CSV form
 
 ╰(*°▽°*)╯
 
-B) Don't forget to change the file path in the code to match with the folder you put the downloaded file 
+B) Don't forget to change the file path in the code to match with the folder you put the downloaded file. I will comment the variable that define the path so you will get an error to go change it.
 
 (´▽`ʃ♡ƪ)
 
