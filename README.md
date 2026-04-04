@@ -7,4 +7,5 @@ B) Don't forget to change the file path in the code to match with the folder you
 (´▽`ʃ♡ƪ)
 
 C) The Step 0 block should automatically create a folder named 'outputs' 
+
 D) I will upload the folder I got after running all the code as well so that you guys can double check the results.
